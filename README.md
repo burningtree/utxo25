@@ -57,7 +57,7 @@ Anyone who brings a crypto-newbie (or "nocoiner") to UTXO.25 will receive specia
 
 Get rid of unnecessary time waiting in line at food trucks or traveling to restaurants outside the venue. Using our online system, you will be able to order delicious food at a specific time, according to your taste, directly to several places within the venue! There will also be a special catering zone with unlimited drinks and basic snacks (for an additional fee).
 
-Meals will be ordered using tokens that you will be able to purchase together with your ticket.
+Meals can be ordered directly (for full price) using tokens that you will be able to purchase together with your ticket (with discount).
 
 ### UTXO Guild
 
