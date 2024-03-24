@@ -35,7 +35,24 @@ The conference will now also include a hackathon, which will be focused on build
 ## Communities
 
 * Gwei.cz
-* Polkadotters* (not confirmed)
+
+### Suggested communities
+
+* Jednadvacet.org
+* Chaincamp
+* Polkadotters
+* BTCPrague
+* ETHPrague
+* CryptoByte
+* Prague Blockchain Month (czechchain)
+* Paralelní Polis
+* BitcoinovejKanál
+* Bitperia
+* KryptoSpace
+* KryptoVláďa
+* BeerFi Prague
+* Krypto Decada
+* ...
 
 ## Contributors
 (This list is just a list of people who want to support the event)
