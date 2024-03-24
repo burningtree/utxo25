@@ -53,6 +53,10 @@ Get rid of unnecessary time waiting in line at food trucks or traveling to resta
 
 Meals will be ordered using tokens that you will be able to purchase together with your ticket.
 
+## Lightning & Smart-contract experience
+
+During the entire conference, every participant will be able to participate in the experience using the Lightning Network and Smart-contracts. For example, you will be able to rate a talk, workshop or campfire that you liked using sats or tokens and collect points that you can exchange for merch and other benefits.
+
 ### UTXO Guild
 
 Organizers, volunteers and other people who contribute to the organization will be associated in the Guild, and will be entitled to a percentage reward after the conference, according to their contribution. This is our effort to make the conference sustainable in the long term.
