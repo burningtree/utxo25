@@ -41,7 +41,7 @@ There will be a co-working space within the conference area where attendees will
 
 Organizers, volunteers and other people who contribute to the organization will be associated in the Guild, and will be entitled to a percentage reward after the conference, according to their contribution. This is our effort to make the conference sustainable in the long term.
 
-The inspiration for the Contributors Guild is the [Protocol Guild](https://protocol-guild.readthedocs.io/).
+The inspiration for the UTXO Guild is the [Protocol Guild](https://protocol-guild.readthedocs.io/).
 
 ## Communities
 
