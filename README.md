@@ -32,6 +32,11 @@ Experiences will now be fully community-based, and everyone will be able to come
 
 The conference will now also include a hackathon, which will be focused on building local development projects.
 
+## Communities
+
+* Gwei.cz
+* Polkadotters* (not confirmed)
+
 ## Contributors
 (This list is just a list of people who want to support the event)
 
