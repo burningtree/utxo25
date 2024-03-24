@@ -16,7 +16,7 @@ Three years after the first act of UTXO.22, we revisit the roots and introduce t
 * experiences hosting: everyone can host experience!
 * hackathon part
 * transparent & open
-* campfires & culture events and everything else you know from UTXO.22!
+* campfires & culture events and everything else you know from UTXO.22/23!
 
 ## New concepts
 
