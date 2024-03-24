@@ -45,7 +45,13 @@ The inspiration for the UTXO Guild is the [Protocol Guild](https://protocol-guil
 
 The conference should also be available to absolute newcomers to cryptocurrencies. We will include beginner topics in the program, where there will be a special program section just for them. In addition, each newcomer receives a special printed beginner's guide as well as other perks.
 
-Anyone who brings a crypto-newbie to UTXO.25 will receive special privileges and benefits. The more newcomers you bring in, the better!
+Anyone who brings a crypto-newbie (or "nocoiner") to UTXO.25 will receive special privileges and benefits. The more newcomers you bring in, the better!
+
+### Catering tickets & zone
+
+Get rid of unnecessary time waiting in line at food trucks or traveling to restaurants outside the venue. Using our online system, you will be able to order delicious food at a specific time, according to your taste, directly to several places within the venue! There will also be a special catering zone with unlimited drinks and basic snacks.
+
+Meals will be ordered using tokens that you will be able to purchase together with your ticket.
 
 ### UTXO Guild
 
