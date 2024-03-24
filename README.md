@@ -33,21 +33,19 @@ The concept of the UTXO conference was designed to first focus purely on the loc
 
 Experiences will now be fully community-based, and everyone will be able to come up with their own experience within the conference. There will be no fee for non-commercial entities and the experience can be financially sponsored directly by the conference.
 
-### Hackathon
-
-The conference will now also include a hackathon, which will be focused on building local development projects.
-
 ### Lightning & Smart-contract experience
 
 During the entire conference, every attendee will be able to participate in the experience using the Lightning Network and Smart-contracts. For example, you will be able to rate a talk, workshop or campfire that you liked using sats or tokens and collect points that you can exchange for merch and other benefits. 
 
 The experience will be multi-platform, you will be able to use both the Bitcoin Lightning Network and Ethereum L2s.
 
+### Hackathon
+
+The conference will now also include a hackathon, which will be focused on building local development projects.
+
 ### Co-working space
 
 There will be a co-working space within the conference area where attendees will be able to work and network. Registration will be required for access to co-working.
-
-The inspiration for the UTXO Guild is the [Protocol Guild](https://protocol-guild.readthedocs.io/).
 
 ### #BringYourNocoiner campaign
 
@@ -64,6 +62,8 @@ Meals will be ordered using tokens that you will be able to purchase together wi
 ### UTXO Guild
 
 Organizers, volunteers and other people who contribute to the organization will be associated in the Guild, and will be entitled to a percentage reward after the conference, according to their contribution. This is our effort to make the conference sustainable in the long term.
+
+The inspiration for the UTXO Guild is the [Protocol Guild](https://protocol-guild.readthedocs.io/).
 
 ## Communities
 
