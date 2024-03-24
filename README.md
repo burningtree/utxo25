@@ -16,7 +16,7 @@ Three years after the first act of UTXO.22, we revisit the roots and introduce t
 * experiences hosting: everyone can host experience!
 * hackathon part
 * co-working space
-* #BringYourFriend campaign
+* #BringYourNocoiner campaign
 * UTXO Guild
 * transparent & open
 * campfires & culture events and everything else you know from UTXO.22/23!
@@ -41,7 +41,7 @@ There will be a co-working space within the conference area where attendees will
 
 The inspiration for the UTXO Guild is the [Protocol Guild](https://protocol-guild.readthedocs.io/).
 
-### #BringYourFriend campaign
+### #BringYourNocoiner campaign
 
 The conference should also be available to absolute newcomers to cryptocurrencies. We will include beginner topics in the program, where there will be a special program section just for them. In addition, each newcomer receives a special printed beginner's guide as well as other perks.
 
