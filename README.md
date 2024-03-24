@@ -41,6 +41,7 @@ The conference will now also include a hackathon, which will be focused on build
 * Jednadvacet.org
 * Chaincamp
 * Polkadotters
+* Holky v kryptu
 * BTCPrague
 * ETHPrague
 * CryptoByte
@@ -52,6 +53,8 @@ The conference will now also include a hackathon, which will be focused on build
 * KryptoVláďa
 * BeerFi Prague
 * Krypto Decada
+* NFTSpace.cz
+* BlockWise.sk
 * ...
 
 ## Contributors
