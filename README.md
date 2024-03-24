@@ -55,7 +55,7 @@ Meals will be ordered using tokens that you will be able to purchase together wi
 
 ### Lightning & Smart-contract experience
 
-During the entire conference, every participant will be able to participate in the experience using the Lightning Network and Smart-contracts. For example, you will be able to rate a talk, workshop or campfire that you liked using sats or tokens and collect points that you can exchange for merch and other benefits. 
+During the entire conference, every attendee will be able to participate in the experience using the Lightning Network and Smart-contracts. For example, you will be able to rate a talk, workshop or campfire that you liked using sats or tokens and collect points that you can exchange for merch and other benefits. 
 
 The experience will be multi-platform, you will be able to use both the Bitcoin Lightning Network and Ethereum L2s.
 
