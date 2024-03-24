@@ -37,6 +37,12 @@ The conference will now also include a hackathon, which will be focused on build
 
 There will be a co-working space within the conference area where attendees will be able to work and network. Registration will be required for access to co-working.
 
+### UTXO Guild
+
+Organizers, volunteers and other people who contribute to the organization will be associated in the Guild, and will be entitled to a percentage reward after the conference, according to their contribution. This is our effort to make the conference sustainable in the long term.
+
+The inspiration for the Contributors Guild is the [Protocol Guild](https://protocol-guild.readthedocs.io/).
+
 ## Communities
 
 * Gwei.cz
