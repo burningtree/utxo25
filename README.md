@@ -58,7 +58,7 @@ The conference will now also include a hackathon, which will be focused on build
 * ...
 
 ## Contributors
-(This list is just a list of people who want to support the event)
+(people supporting this event)
 
 * Petr Menšík (Polkadotters)
 
