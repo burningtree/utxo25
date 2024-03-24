@@ -43,6 +43,12 @@ Organizers, volunteers and other people who contribute to the organization will 
 
 The inspiration for the UTXO Guild is the [Protocol Guild](https://protocol-guild.readthedocs.io/).
 
+### #BringYourFriend campaign
+
+The conference should also be available to absolute newcomers to cryptocurrencies. We will include beginner topics in the program, where there will be a special program section just for them. In addition, each newcomer receives a special printed beginner's guide as well as other perks.
+
+Anyone who brings a crypto-newbie to UTXO.25 will receive special privileges and benefits. The more newcomers you bring in, the better!
+
 ## Communities
 
 * Gwei.cz
