@@ -16,6 +16,8 @@ Three years after the first act of UTXO.22, we revisit the roots and introduce t
 * experiences hosting: everyone can host experience!
 * hackathon part
 * co-working space
+* #BringYourFriend campaign
+* UTXO Guild
 * transparent & open
 * campfires & culture events and everything else you know from UTXO.22/23!
 
@@ -37,10 +39,6 @@ The conference will now also include a hackathon, which will be focused on build
 
 There will be a co-working space within the conference area where attendees will be able to work and network. Registration will be required for access to co-working.
 
-### UTXO Guild
-
-Organizers, volunteers and other people who contribute to the organization will be associated in the Guild, and will be entitled to a percentage reward after the conference, according to their contribution. This is our effort to make the conference sustainable in the long term.
-
 The inspiration for the UTXO Guild is the [Protocol Guild](https://protocol-guild.readthedocs.io/).
 
 ### #BringYourFriend campaign
@@ -48,6 +46,10 @@ The inspiration for the UTXO Guild is the [Protocol Guild](https://protocol-guil
 The conference should also be available to absolute newcomers to cryptocurrencies. We will include beginner topics in the program, where there will be a special program section just for them. In addition, each newcomer receives a special printed beginner's guide as well as other perks.
 
 Anyone who brings a crypto-newbie to UTXO.25 will receive special privileges and benefits. The more newcomers you bring in, the better!
+
+### UTXO Guild
+
+Organizers, volunteers and other people who contribute to the organization will be associated in the Guild, and will be entitled to a percentage reward after the conference, according to their contribution. This is our effort to make the conference sustainable in the long term.
 
 ## Communities
 
