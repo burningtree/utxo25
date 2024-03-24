@@ -35,7 +35,7 @@ The conference will now also include a hackathon, which will be focused on build
 
 ### Co-working space
 
-There will be a co-working space within the conference area where attendees will be able to work and network.
+There will be a co-working space within the conference area where attendees will be able to work and network. Registration will be required for access to co-working.
 
 ## Communities
 
