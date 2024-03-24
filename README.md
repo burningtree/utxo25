@@ -13,7 +13,7 @@ Three years after the first act of UTXO.22, we revisit the roots and introduce t
 * bilingual: 50% content in English, 50% content in Czech/Slovak
 * transparent & open
 
-## Speakers
+## Contributors
 (This list is just a list of people who want to support the event)
 
 * Petr Menšík (Polkadotters)
