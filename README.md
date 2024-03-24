@@ -15,6 +15,7 @@ Three years after the first act of UTXO.22, we revisit the roots and introduce t
 * bilingual: 50% content in English, 50% content in Czech/Slovak
 * experiences hosting: everyone can host experience!
 * hackathon part
+* co-working space
 * transparent & open
 * campfires & culture events and everything else you know from UTXO.22/23!
 
@@ -31,6 +32,10 @@ Experiences will now be fully community-based, and everyone will be able to come
 ### Hackathon
 
 The conference will now also include a hackathon, which will be focused on building local development projects.
+
+### Co-working space
+
+There will be a co-working space within the conference area where attendees will be able to work and network.
 
 ## Communities
 
