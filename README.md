@@ -99,5 +99,4 @@ The inspiration for the UTXO Guild is the [Protocol Guild](https://protocol-guil
 ## Team
 
 * Tree ([@burningtree](https://github.com/burningtree))
-* Cryptonda ([@cryptonda](https://github.com/cryptonda))
 * Jana Qubi
