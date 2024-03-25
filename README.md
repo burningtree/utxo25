@@ -94,6 +94,7 @@ The inspiration for the UTXO Guild is the [Protocol Guild](https://protocol-guil
 (people supporting this event)
 
 * Petr Menšík (Polkadotters)
+* Radek Švarz (dCZK, APUS.finance)
 
 ## Team
 
