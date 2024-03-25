@@ -2,7 +2,7 @@
 
 > This event symbolically honors those who have left the crypto world due to greed and opportunism.
 
-Three years after the first act of UTXO.22, we revisit the roots and introduce the next chapter. The crypto community is constantly evolving, and so we must adapt to these changes. However, this does not mean that we reject basic ideas such as openness, transparency, and community involvement. In fact we want to create something even more aligned with core principles.
+Three years after the first act of UTXO.22, it's time to move our local conference to the next chapter and open up to the world. Like cryptocurrencies, we change and evolve, but the basic principles remain the same. Our desire is to create the most unique celebration of freedom, innovation and decentralization you know. Come celebrate with us!
 
 * Location: Prague, Czech Republic
 * Date: June 2025
